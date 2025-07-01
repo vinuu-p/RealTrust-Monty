@@ -9,8 +9,8 @@ const HeroSection = () => {
       {/* Background Image */}
       <div
   className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-  style={{ backgroundImage: `url(${backgroundImage})` }}
-> 
+  style={{ backgroundImage: `url(https://res.cloudinary.com/ds9gbuqrv/image/upload/v1751351598/young-couple-examining-blueprints-with-real-estate-agent-while-buying-new-home_1_bqynkx.svg)` }}
+>
   <div className="absolute inset-0 bg-black/20"></div>
 </div>
 
