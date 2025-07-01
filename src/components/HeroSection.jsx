@@ -1,6 +1,6 @@
 import React from 'react';
 import ContactForm from './ContactForm';
-import backgroundImage from '../assets/young-couple-examining-blueprints-with-real-estate-agent-while-buying-new-home 1.svg';
+// import backgroundImage from '../assets/young-couple-examining-blueprints-with-real-estate-agent-while-buying-new-home 1.svg';
 
 
 const HeroSection = () => {
